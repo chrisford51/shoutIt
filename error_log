@@ -1,0 +1,17 @@
+[03-Jun-2018 21:42:51 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrisdaw_admin'@'localhost' to database 'chrisdaw_shoutit' in /home/chrisdaw/public_html/projects/shoutit/database.php on line 5
+[03-Jun-2018 21:42:51 UTC] PHP Notice:  Undefined variable: mysqli_connect_error in /home/chrisdaw/public_html/projects/shoutit/database.php on line 10
+[03-Jun-2018 21:42:51 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/chrisdaw/public_html/projects/shoutit/database.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/projects/shoutit/database.php on line 10
+[03-Jun-2018 21:44:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrisdaw_admin'@'localhost' to database 'chrisdaw_shoutit' in /home/chrisdaw/public_html/projects/shoutit/database.php on line 5
+[03-Jun-2018 21:44:37 UTC] PHP Notice:  Undefined variable: mysqli_connect_error in /home/chrisdaw/public_html/projects/shoutit/database.php on line 10
+[03-Jun-2018 21:44:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/chrisdaw/public_html/projects/shoutit/database.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/projects/shoutit/database.php on line 10
+[03-Jun-2018 21:54:38 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrisdaw_admin'@'localhost' to database 'chrisdaw_shoutit' in /home/chrisdaw/public_html/projects/shoutit/database.php on line 5
+[03-Jun-2018 21:54:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrisdaw/public_html/projects/shoutit/index.php on line 7
+[03-Jun-2018 21:54:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrisdaw/public_html/projects/shoutit/index.php on line 31
+[03-Jun-2018 21:55:22 UTC] PHP Notice:  Undefined index: name in /home/chrisdaw/public_html/projects/shoutit/index.php on line 33
+[03-Jun-2018 21:55:22 UTC] PHP Notice:  Undefined index: name in /home/chrisdaw/public_html/projects/shoutit/index.php on line 33
